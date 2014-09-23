@@ -12,3 +12,9 @@ features including a definition fetcher and a custom dictionary.
 As this was created over the course of a few nights while I was in a hotel overseas, it is designed to be maximally functional
 with minimal effort, and could use many improvements. I will be updating this script occasionally to make it easier to read and 
 more user friendly, and to make the randomly generated acronyms better. I may also add features if I'm feeling frisky.
+
+-----------------------
+
+Upcoming update:
+- Ensure all scripts will run for arbitrary windows users
+- comment
